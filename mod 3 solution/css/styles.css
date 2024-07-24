@@ -1,7 +1,7 @@
 body {
     font-size: 16px;
     color: #fff;
-    background-color: #fff;
+    background-color:teal;
     font-family: 'Oxygen', sans-serif;
   }
   
@@ -68,12 +68,15 @@ body {
 }
 #main-content {
   color: #000;
+  margin: 50px;
+  margin-right: 50px;
   
 }
 .text{
   background-color: gray;
-  margin: 20px;
-  margin-bottom: 30px;
+  margin: 30px;
+  margin-left: -10px;
   height: 1000px;
+ 
 }
 /* END HOME PAGE */
